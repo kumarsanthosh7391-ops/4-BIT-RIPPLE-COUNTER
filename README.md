@@ -51,17 +51,6 @@ WAVEFORM
 
 
 
-DOWNCOUNTER
-<img width="1919" height="986" alt="Screenshot 2025-12-19 193557" src="https://github.com/user-attachments/assets/75d7d248-6be2-4b17-888f-9dea44a047a6" />
-
-
-WAVEFORM
-
-
-<img width="1919" height="988" alt="Screenshot 2025-12-19 193732" src="https://github.com/user-attachments/assets/52bc62a0-08bd-4234-bd72-a24e19d10732" />
-
-
-
 
 
 
